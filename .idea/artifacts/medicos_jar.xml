@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="medicos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/medicos_jar</output-path>
+    <root id="archive" name="medicos.jar">
+      <element id="module-output" name="medicos" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.46/mysql-connector-java-5.1.46.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.45/mysql-connector-java-5.1.45.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
